@@ -14,6 +14,50 @@
             </llm>
           </llm>
         </chat>
+        <chat>
+          <accountId value="VXNlcjoyNzY1Njg=" />
+          <internalId value="1ea7bb20-4e82-4a6d-9aa4-e4eda4021621" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyNzY1Njg=" />
+          <internalId value="fc0a2a18-0797-4180-8af4-4276429b827b" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyNzY1Njg=" />
+          <internalId value="2a8de018-cf0b-470c-abf7-4551b5b27e23" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoyNzY1Njg=" />
+          <internalId value="8659d604-520f-4f9f-9a6b-df9307c01222" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
       </list>
     </chats>
   </component>
